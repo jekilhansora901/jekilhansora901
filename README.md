@@ -38,6 +38,8 @@
   
 </div>
 
+<hr />
+
 ### Project(s) 👷‍♂️
   1. <b>Global User Service</b> - Managing User profile module from Front-end and Back-end in eCommerce site
   2. <b>UI Component Identifier Tool</b> - Using Bitbucket APIs
@@ -49,6 +51,15 @@
   8. <b>Vendorfeed Migration Tool</b> - Using Apache Spark, hBase, SQL, Spring batch
   9. <b>Indian Sign Language Conversion Tool</b> - Using Microsoft Kinect V2, .Net app
   10. <b>Recruitment and Payroll Management</b> - Website using PHP 
+
+<hr />
+
+### Certificate(s) 📑
+  * Scrum Foundation Professional Certificate
+  * Scrum Fundamentals Certified
+  * Oracle Certified Associate, Java SE 8 Programmer
+
+<hr />
 
 <div>
   
