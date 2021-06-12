@@ -31,7 +31,10 @@
   * 🥇 Won 7+ TCS Digital Slamdunk hackathons on different technology stack
   * 👷‍♂️ Played a key role in Migration of the e-Commerce site from IBM Web Sphere to Microservice based open source architecture
   * ⌨️ Experience in developing scalable, reliable, and efficient enterprise applications using above listed Tech Toolbox technologies
-  * ⚛️ Proficient in modern web best practices, including responsive layouts(MMX design), cross-browser compatibility and mobile-first web design, with a willingness to research and learn new practices
+  * ⚛️ Proficient in modern web best practices, including below and with a willingness to research and learn new practices
+      * Responsive layouts(MMX design)
+      * Cross-browser compatibility 
+      * Mobile-First web design
   * 🧰 Extensive Experience on CSS pre-processor using SASS and with SCSS
   * 👬 Strong experience in Agile methodology and procedures with Scrum Framework and working on SAFe(Scaled Agile Framework) with people at 4 different Geo locations
   * 🏭 Experience with Git/GitHub, JIRA, Source Tree, BitBucket, Checkmark, Apache Jmeter, Splunk, NewRelic tools
