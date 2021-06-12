@@ -38,6 +38,18 @@
   
 </div>
 
+### Project(s) 👷‍♂️
+  1. <b>Global User Service</b> - Managing User profile module from Front-end and Back-end in eCommerce site
+  2. <b>UI Component Identifier Tool</b> - Using Bitbucket APIs
+  3. <b>Digital Mirror</b> - Hand Recognition tool using Leap Motion
+  4. <b>AR-based in-door path navigation</b> - app using Google ARCore library on Android
+  5. <b>DB Compare Tool</b> - Using Apache Spark on Spring Boot Framework
+  6. <b>Account Status generator</b> - batch job using Spring Boot
+  7. <b>SEO Admin Tool</b> - Using Angular
+  8. <b>Vendorfeed Migration Tool</b> - Using Apache Spark, hBase, SQL, Spring batch
+  9. <b>Indian Sign Language Conversion Tool</b> - Using Microsoft Kinect V2, .Net app
+  10. <b>Recruitment and Payroll Management</b> - Website using PHP 
+
 <div>
   
   <details>
