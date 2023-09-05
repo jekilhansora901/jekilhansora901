@@ -18,15 +18,15 @@
   <img alt="Jenkins" src="https://user-images.githubusercontent.com/4328384/119976524-d2783f80-bfd4-11eb-9556-86b0ec4769d9.png" width="75"  style="display: inline; margin: 0 10px;" />
 </div>
 
-#### Hardware(s):
 <div>
+<img alt="ELK" src="https://github.com/jekilhansora901/jekilhansora901/assets/4328384/77c5d7f7-5c5d-4c94-8451-7b80d285c730" width="275"  style="display: inline; margin: 0 10px;" />
 <img alt="Microsoft Kinect V2" src="https://user-images.githubusercontent.com/4328384/119974988-f5a1ef80-bfd2-11eb-9ad9-af9a0648b330.png" height="110" style="display: inline; margin: 0 10px;" />
 <img alt="MySQL" src="https://user-images.githubusercontent.com/4328384/119975453-7fea5380-bfd3-11eb-8fe9-895ae9138ac8.png" height="150" style="display: inline; margin: 0 10px;" />
 </div>
 
 <div>
   
-  * Over 5+ years of immense experience in Object-Oriented Programming
+  * Over 7+ years of immense experience in Object-Oriented Programming
   * 📚 Proven knowledge on Full Stack end to end development with e-Commerce sites-Retail domain
   * 🥇 Won 7+ TCS Digital Slamdunk hackathons on different technology stack
   * 👷‍♂️ Played a key role in Migration of the e-Commerce site from IBM Web Sphere to Microservice based open source architecture
