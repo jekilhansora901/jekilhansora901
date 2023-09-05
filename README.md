@@ -1,6 +1,6 @@
 <div align="center">
 
-  ## Hi there! 👋🤓 <br />I'm Jekil Hansora <br />an I.T Analyst, Full Stack Developer.
+  ## Hi there! 👋🤓 <br />I'm Jekil Hansora <br />Full Stack Architect.
   
 </div>
   
