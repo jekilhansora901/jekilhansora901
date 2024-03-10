@@ -15,8 +15,8 @@
     </a>
   </p>
 </div>
-### My Tech ToolBox 🧰
-#### Software(s):
+<h2> My Tech ToolBox 🧰 </h2>
+<h3> Software(s): </h3>
 <div>
   <img alt="Java" src="https://user-images.githubusercontent.com/4328384/119971923-3435ab00-bfcf-11eb-9c74-9ab45daa4723.gif" width="110" height="70" style="display: inline; margin: 0 10px;" />
   <img alt="Spring Boot" src="https://user-images.githubusercontent.com/4328384/119972905-6c89b900-bfd0-11eb-9102-4dfe44b2e32f.png" width="130" height="50" style="display: inline; margin: 0 10px;" />
